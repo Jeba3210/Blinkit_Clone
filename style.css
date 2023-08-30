@@ -69,7 +69,24 @@
 
 }
 
+
+ #cart{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
 /* main */
+
+main{
+align-items: center;
+margin-left: 215px;
+margin-right: 190px;
+}
 
 
 
@@ -153,8 +170,8 @@
     align-items: center;
     background: rgb(255, 255, 255);
     padding: 0px 12px;
-    padding-left: 215px;
-    padding-right: 215px;
+/*     padding-left: 215px;
+    padding-right: 215px; */
 }
 
 .div_container3 a{
