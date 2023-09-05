@@ -13,5 +13,7 @@ Image 1 :
 
 Image 3 :
 
-![Uploading Screenshot 2023-09-05 233415.png…]()
+![Screenshot 2023-09-05 233415](https://github.com/Jeba3210/Blinkit_Clone/assets/137270674/1c9c1c85-cb38-4eef-b72f-243e49146bd3)
+
+
 
