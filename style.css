@@ -104,7 +104,7 @@ main{
 } */
 
 .div_container{
-    max-width: 100%;
+/*     max-width: 100%; */
     overflow: auto hidden;
     display: flex;
     column-gap: 20px;
@@ -192,7 +192,7 @@ main{
 }
 
 .div_container4{
-    max-width: 100%;
+/*     max-width: 100%; */
     overflow: auto hidden;
     display: flex;
     column-gap: 20px;
