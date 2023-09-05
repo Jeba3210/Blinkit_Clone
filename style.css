@@ -263,7 +263,9 @@ main{
     display: flex;
     justify-content: space-around;
     padding-top: 100px;
-    font-family:'Mulish', sans-serif;;
+    font-family:'Mulish', sans-serif;
+    margin-left: -30px;
+    margin-right: -50px;
 }
 .ul , .cat{
    padding-right: 100px;
@@ -276,6 +278,8 @@ main{
     color:  rgb(123, 117, 117);
     display: flex;
     justify-content: space-between;
+    margin-left: -30px;
+    margin-right: -50px;
 }
 
 
