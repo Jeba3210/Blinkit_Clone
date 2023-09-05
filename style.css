@@ -265,7 +265,7 @@ main{
     padding-top: 100px;
     font-family:'Mulish', sans-serif;
     margin-left: -30px;
-    margin-right: -50px;
+    margin-right: -80px;
 }
 .ul , .cat{
    padding-right: 100px;
@@ -279,7 +279,7 @@ main{
     display: flex;
     justify-content: space-between;
     margin-left: -30px;
-    margin-right: -50px;
+    margin-right: -80px;
 }
 
 
