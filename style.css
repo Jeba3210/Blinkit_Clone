@@ -109,8 +109,8 @@ main{
     display: flex;
     column-gap: 20px;
     margin: 16px;
-  margin-left: -100px;
-    margin-right: -100px;
+  margin-left: -50px;
+    margin-right: -50px;
     /* margin-left: 215px;
     margin-right: 215px; */
    
@@ -199,8 +199,8 @@ main{
     display: flex;
     column-gap: 20px;
     margin: 16px;
-  margin-left: -100px;
-    margin-right: -100px;
+  margin-left: -50px;
+    margin-right: -50px;
     /* margin-left: 215px;
     margin-right: 215px; */
 }
